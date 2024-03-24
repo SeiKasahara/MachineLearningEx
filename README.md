@@ -2,5 +2,5 @@ Machine learning and deep learning instance of **linear regression/logistic regr
 
 dataset originates from Andrew Ng, CS229 Machine Learning course
 
-All ex*.py is a main execute program.
-Gradient descent operation and cost function (regulared or not) is encapsulated in other *.py files.
+All ex*.py are main execute programs.
+Gradient descent operation and cost function (regulared or not) are encapsulated in other *.py files.
