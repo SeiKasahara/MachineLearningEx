@@ -6,3 +6,7 @@ dataset originates from Andrew Ng, Stanford University, CS229 Machine Learning c
 # Description
 All ex*.py are main execute programs.
 Gradient descent operation and cost function (regulared or not) are encapsulated in other *.py files.
+
+# Modules
+For testing the code, the specific module environment should be installed properly as mentioned below:
+`numpy`, `scipy`, `matplotlib`
